@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @V3AI-Seven
-- 👀 I’m interested in coding, computers and robotics
-- 🌱 I’m currently learning C++ to participate in the Vex V5 Robotics competition
-- 😄 Pronouns: He/Him
+Its a me, a random guy! I am currently learning to make Minecraft Mods! I like to code and I like the science and math fields as well. 
 
-<!---
-V3AI-Seven/V3AI-Seven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey look! A bunch of numbers! (go check out Hackclub)
+
+![Badge that shows my hackatime statistics](https://github-readme-stats.hackclub.dev/api/wakatime?username=5534&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark)
